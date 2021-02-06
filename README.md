@@ -1,5 +1,5 @@
 
-# Project Phoenix - Containerize your enterprize
+# Project Phoenix - Containerize your enterprize 1
 Welcome to project Phoenix - a hands on workshop to practice container technology in the enterprise.
 
 ## What do we want to achieve?
